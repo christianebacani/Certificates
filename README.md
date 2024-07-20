@@ -15,3 +15,11 @@ This repository contains all my certificates earned through self-study during co
 
 - **Intermediate SQL (DataCamp)**: [Intermediate SQL.pdf](Intermediate%20SQL.pdf)
   - A continuation of the SQL course that provided more advanced practical skills. This course enabled me to work on various mini-projects (see [Roadmap](https://github.com/christianebacani/Roadmap)) and deepen my understanding of SQL through functions like `COUNT`, `MAX`, `MIN`, `AVG`, and more. It reinforced my dedication to continuous learning and problem-solving in data engineering.
+
+## Contact
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through:
+
+- **Email**: [christianbacani581@gmail.com](mailto:christianbacani581@gmail.com)
+- **LinkedIn**: [Christian Bacani](https://www.linkedin.com/in/christianebacani/)
+- **Portfolio**: [Christian Bacani on DataCamp](https://www.datacamp.com/portfolio/bioy7bp5)
