@@ -16,7 +16,8 @@ This repository contains all my certificates earned through self-study during co
 - **Intermediate SQL (DataCamp)**: [Intermediate SQL.pdf](Intermediate%20SQL.pdf)
   - A continuation of the SQL course that provided more advanced practical skills. This course enabled me to work on various mini-projects (see [Roadmap](https://github.com/christianebacani/Roadmap)) and deepen my understanding of SQL through functions like `COUNT`, `MAX`, `MIN`, `AVG`, and more. It reinforced my dedication to continuous learning and problem-solving in data engineering.
 
-  - **Joining Data in SQL (DataCamp)**: 
+  - **Joining Data in SQL (DataCamp)**: [Joining Data in SQL (DataCamp).pdf(Joining%20Data%20in%20SQL%20(DataCamp).pdf)]
+    - A continuation of the SQL course that I learn and also built projects based on it that I needed to improve and be a competent Data Professional someday. I always believe that the best learning is by implementing it, and that ending a course means creating a projects based on course and try to add some of your knowledge around it. I learned about the `Set Theory`, `Outer Joins`, `Self Joins`, `Cross Joins`, and `Subqueries`.  
 
 ## Contact
 
