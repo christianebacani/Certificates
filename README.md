@@ -19,6 +19,9 @@ This repository contains all my certificates earned through self-study during co
 - **Joining Data in SQL (DataCamp)**: [Joining Data in SQL.pdf](Joining%20Data%20in%20SQL.pdf)
   - A continuation of the SQL course that I learned and also built projects based on it that I needed to improve and be a competent/proficient Data Professional someday. I always believe that the best learning is by implementing it, and that ending a course means creating projects based on the course and trying to add some of your knowledge around it. I learned about the `Set Theory`, `Outer Joins`, `Self Joins`, `Cross Joins`, and `Subqueries`.
 
+  - **Relational Databases in SQL (DataCamp)**: [Relational Databases in SQL.pdf](Relational$Databases$in$SQL.pdf)
+    - A certficate that I accomplish based on what I learned in `Relational Databases in SQL`. Of course finishing a course is just the start for me since I need to apply what I learned. You can check out what I learned in my `DataCamp Portfolio` or in my `Roadmap` Repository. I apply what I learned by building a project with the used of `Attribute Constraint`, `Key Constraint`, `Referential Integrity Constraint`. I also knew how to truncate a column or migrate data from one columns into another.  
+
 ## Contact
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through:
