@@ -22,7 +22,7 @@ This repository showcases the certificates I have earned through self-study duri
 - **Relational Databases in SQL (DataCamp)**: [Relational Databases in SQL.pdf](Relational%20Databases%20in%20SQL.pdf)
   - Completing this course was just the beginning, as I immediately applied my knowledge to real-world projects. Key topics covered include Attribute Constraints, Key Constraints, and Referential Integrity. My practical application of these topics can be found in my [Roadmap](https://github.com/christianebacani/Roadmap), where I worked on projects involving data truncation and column migration.
 
-- **Web Scraping (Bootcamp)**: [Web Scraping (Bootcamp).pdf](Web_Scraping_Bootcamp.pdf)
+- **Web Scraping (Bootcamp)**: [Web Scraping (Bootcamp).pdf](Web%Scraping%(Bootcamp)%pdf)
   - This bootcamp introduced me to foundational concepts in web scraping, such as working with HTML `div` elements, classes, asynchronous programming, and bypassing authentication. One of the most exciting challenges was learning to perform video-to-text transcription using ASR (Automatic Speech Recognition) and Diarization with tools like WhisperX and Hugging Face models. The bootcamp was both fun and challenging, and it has motivated me to continue improving my foundational knowledge and practical concepts in web scraping.
 
 ## Contact
