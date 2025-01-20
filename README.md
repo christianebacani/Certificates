@@ -25,6 +25,20 @@ This repository showcases the certificates I have earned through self-study duri
 - **Web Scraping (Bootcamp)**: [Web Scraping (Bootcamp).pdf](Web%20Scraping%20(Bootcamp).pdf)
   - This bootcamp introduced me to foundational concepts in web scraping, such as working with HTML `div` elements, classes, asynchronous programming, and bypassing authentication. One of the most exciting challenges was learning to perform video-to-text transcription using ASR (Automatic Speech Recognition) and Diarization with tools like WhisperX and Hugging Face models. The bootcamp was both fun and challenging, and it has motivated me to continue improving my foundational knowledge and practical concepts in web scraping.
 
+- **Database Design in SQL (DataCamp)**: [Database Design in SQL (DataCamp).pdf](Database%20Design%20in%20SQL%20(DataCamp).pdf)
+  - This course introduced me to various techniques, processes, and technologies used to manage databases for different use cases, such as:  
+    - `Conceptual Modeling`  
+    - `Logical Modeling`  
+    - `Physical Modeling`  
+    - `Normalization`  
+    - `Denormalization`  
+    - `Different types of normalization`  
+    - `Managing Views`  
+    - `Managing Roles and Privileges`  
+    - `Table Partitioning`  
+
+  - This knowledge is crucial for me as an aspiring Data Engineer because it is one of the key responsibilities that drives business value from data, transforming it into a data product.
+
 ## Contact
 
 Feel free to reach out if you have any questions or would like to collaborate on a project. You can contact me through:
