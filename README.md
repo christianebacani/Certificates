@@ -39,7 +39,7 @@ This repository showcases the certificates I have earned through self-study duri
 
   - This knowledge is crucial for me as an aspiring Data Engineer because it is one of the key responsibilities that drives business value from data, transforming it into a data product.
 
-- **Python for Data Engineering Certificate**: [Python for Data Engineering Certificate.pdf](Python%20for%20Data%20Engineering%20Certificate%.pdf) and **Python for Data Engineering Badge**: [Python for Data Engineering Badge](Python%20for%20Data%20Engineering%20Badge.pdf)
+- **Python for Data Engineering Certificate**: [Python for Data Engineering Certificate.pdf](Python%20for%20Data%20Engineering%20Certificate.pdf) and **Python for Data Engineering Badge**: [Python for Data Engineering Badge](Python%20for%20Data%20Engineering%20Badge.pdf)
     - This project based course from `Coursera` thought me the practical concepts and skills needed to implement `ETL Pipelines` using different Ingestions method such as using `API`, `Web Scraping Libraries and Modules`, and `Database Querying` in Python. This is one of the example that really complements my learning styles by learning by doing and making sure that I can debug, optimize, and create documentations for my scripts. 
       
 ## Contact
