@@ -45,7 +45,7 @@ This repository showcases the certificates I have earned through self-study duri
   [Python for Data Engineering Badge.pdf](Python%20for%20Data%20Engineering%20Badge.pdf)  
   This project-based course taught me the practical skills needed to implement ETL pipelines using different ingestion methods such as APIs, Web Scraping, and Object Relational Mapping for connecting relational databases in Python. This course aligns with my learning philosophy of “learning by doing,” enabling me to build, optimize, and solve real ETL workflows.
 
-- **Data Warehousing Concepts (DataCamp)**: [Data Warehousing Concepts.pdf](Data%20Warehousing%20Concepts.pdf)  
+- **Data Warehousing Concepts (DataCamp)**: [Data Warehousing Concepts (DataCamp).pdf](Data%20Warehousing%20Concepts%20(DataCamp).pdf)
   This course strengthened my understanding of how modern data warehouses work and why they are essential for analytical workloads. Key concepts include:  
   - OLTP vs OLAP Systems  
   - ETL vs ELT Pipelines  
